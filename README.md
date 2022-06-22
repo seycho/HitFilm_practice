@@ -1,1 +1,1 @@
-hitfilm practice and make preset to easy use
+hitfilm practice and make preset to easily use
