@@ -1,2 +1,2 @@
 text_texture   
-![](text_texture.gif)
+![](text_texture.png)
